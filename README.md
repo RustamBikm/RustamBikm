@@ -53,9 +53,10 @@ Latest Project
     <img src="https://img.shields.io/badge/Mail.ru-168de2?style=for-the-badge&logo=mailru&logoColor=white" alt="Mail.ru Badge"/>
   </a>
 </div>
+
 ### :fire: Моя статистика:
 
-<div style="display: inline-block">
+<div style="display: flex; flex-direction: row; justify-content: center; align-self: center;">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RustamBikm&theme=vue&hide_border=true&locale=ru)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RustamBikm&layout=compact&locale=ru)
