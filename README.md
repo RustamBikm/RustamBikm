@@ -55,7 +55,7 @@
 </div>
 
 ### :fire: Моя статистика:
-<div>
+<div style="display: block">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RustamBikm&theme=vue&hide_border=true&locale=ru)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RustamBikm&theme=vue&layout=compact&hide_border=true&locale=ru)
