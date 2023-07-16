@@ -11,10 +11,6 @@
 
 ---
 
-### :hammer: Мои последнеи проекты:
-
----
-
 ### :hammer_and_wrench: Мой стек технологий и инструментов:
 
 <div>
@@ -38,6 +34,7 @@
 </div>
 
 ### Со мной можно связаться:
+
 <div id="badges">
   <a href="https://vk.com/rustemkakpi">
     <img src="https://img.shields.io/badge/VKontakte-45668e?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte Badge"/>
@@ -55,9 +52,10 @@
 </div>
 
 ### :fire: Моя статистика:
+
 <div style="display: block">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RustamBikm&theme=vue&hide_border=true&locale=ru)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RustamBikm&theme=vue&layout=compact&hide_border=true&locale=ru)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RustamBikm&theme=vue&layout=compact&hide_border=true&locale=ru&width=400&custom_title=Используемые языки)
 
 </div>
